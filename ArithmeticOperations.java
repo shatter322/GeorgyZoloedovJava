@@ -22,10 +22,10 @@ public class ArithmeticOperations {
         System.out.println("Вычитание: " + (a - b));
         System.out.println("Умножение: " + (a * b));
 
-        if (b != 0) {
-            System.out.println("Деление: " + ((double) a / b));
-        } else {
+        if (b == 0) {
             System.out.println("Деление на ноль невозможно.");
+        } else {
+            System.out.println("Деление: " + ((double) a / b));
         }
     }
 }
