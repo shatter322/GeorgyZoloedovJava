@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\georg\eclipse-workspace\GeorgyZoloedovJava\.metadata\.plugins\org.eclipse.jdt.core
